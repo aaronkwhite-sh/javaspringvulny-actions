@@ -1,5 +1,5 @@
 
-# Java Spring Vulny
+# JavaSpringVulny
 
 Running for Naomi in Actions
 
